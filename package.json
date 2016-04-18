@@ -1,7 +1,7 @@
 {
-  "name": "ember-template",
+  "name": "ember-deployment-example",
   "version": "0.0.0",
-  "description": "Small description for ember-template goes here",
+  "description": "Example of deploying an Ember app to Github Pages",
   "private": true,
   "directories": {
     "doc": "doc",
